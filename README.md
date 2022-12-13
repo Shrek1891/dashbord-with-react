@@ -1,2 +1,2 @@
 # dashbord-with-react
-very nice dashbord (React and Reduce)
+Very nice dashbord (React and Reduce)
